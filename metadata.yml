@@ -1,0 +1,9 @@
+title: Datos de tacos
+databases:
+  tacos:
+    tables:
+      tacos:
+        plugins:
+          datasette-cluster-map:
+            latitude_column: "latitud"
+            longitude_column: "longitud"
