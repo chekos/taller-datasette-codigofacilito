@@ -1,0 +1,4 @@
+datasette
+datasette-vega
+datasette-nteract-data-explorer
+datasette-cluster-map
